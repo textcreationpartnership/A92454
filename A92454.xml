@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Commissioners of Scotland, representing the hard usage of the Earle of Lauderdaill by the souldiers of the army at Wooburn: and desiring his Majesties speedy coming to London in safety, honour, and freedome.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92454</idno>
+            <idno type="STC">Wing S1002E</idno>
+            <idno type="STC">Thomason E400_33</idno>
+            <idno type="STC">ESTC R201763</idno>
+            <idno type="EEBO-CITATION">99862263</idno>
+            <idno type="PROQUEST">99862263</idno>
+            <idno type="VID">114416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114416)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Commissioners of Scotland, representing the hard usage of the Earle of Lauderdaill by the souldiers of the army at Wooburn: and desiring his Majesties speedy coming to London in safety, honour, and freedome.</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>Lauderdale, John Maitland, Duke of, 1616-1682.</author>
+               </titleStmt>
+               <extent>[2], 8 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock at the Kings Head in Paul's Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>M DC XLVII. [1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: Worcester-House the 1 of August, 1647. Lauderdaill, Charles Erskine, Hugh Kennedy, Ro. Barclay.</note>
+                  <note>Page 6 is misnumbered 8.</note>
+                  <note>The letter is "to the Speaker of the House of Commons"--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "Aug: 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lauderdale, John Maitland, --  Duke of, 1616-1682 --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114416:1"/>
+            <!-- PDF PAGE 51 -->
+            <pb facs="tcp:114416:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <p>A LETTER From The Commiſsioners <hi>OF</hi> SCOTLAND, Repreſenting the hard uſage of the Earle of <hi>LA<g ref="char:V">Ʋ</g>DERDAILL</hi> by the Souldiers of the ARMY at WOOBURN: <hi>AND</hi> Deſiring his Majeſties ſpeedy com<g ref="char:EOLhyphen"/>ing to <hi>LONDON</hi> in Safety, Ho<g ref="char:EOLhyphen"/>nour, and Freedome.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Boſtock</hi> at the Kings Head in <hi>Paul</hi>'s Church-yard. MDCXLVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114416:2"/>
+            <!-- PDF PAGE 52 -->
+            <pb n="1" facs="tcp:114416:2"/>
+            <!-- PDF PAGE 52 -->
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Committee of Eſtates of the Kingdome of Scotland having ſent us frequent di<g ref="char:EOLhyphen"/>rections ſince theſe late com<g ref="char:EOLhyphen"/>motions, to give them a true account from time to time of his Majeſties condition: In purſuance thereof, we deſired the Earl of <hi>Lauderdail</hi> to repair to his Majeſtie at <hi>Wooburn,</hi> where wee expected that he ſhould have been u<g ref="char:EOLhyphen"/>ſed with that reſpect which is due to a Commiſsioner of the Parliament of <hi>Scotland;</hi> but we are herein extremely diſappointed: for on Saturday morn<g ref="char:EOLhyphen"/>ing early, before his Lordſhip was out
+<pb n="2" facs="tcp:114416:3"/>
+               <!-- PDF PAGE 53 -->of his bed, a great many ſoldiers ruſh<g ref="char:EOLhyphen"/>ed into his chamber, and coming to his bed-ſide, deſired him ſpeedily to be gone without any delay. He re<g ref="char:EOLhyphen"/>preſented unto them his imploy<g ref="char:EOLhyphen"/>ment, that hee was there in the capa<g ref="char:EOLhyphen"/>city of a Commiſsioner of <hi>Scotland</hi> to attend his Majeſtie, that he had reſol<g ref="char:EOLhyphen"/>ved to go away that morning and in<g ref="char:EOLhyphen"/>treated he might have the liberty firſt to ſpeak with his Majeſty: Which they would not grant, but violently inſiſted, that what they demanded might forthwith be put in execution, and would not hearken to any reaſon he offered unto them, telling him it was paſt diſpute, it was reſolved upon what they did herein would be own<g ref="char:EOLhyphen"/>ed by the Army, and they would maintain it; with other expreſsions of
+<pb n="3" facs="tcp:114416:3"/>
+               <!-- PDF PAGE 53 -->that kind. We do acknowledge the civility of the Commiſſioners of both Houſes, who acted their parts in diſ<g ref="char:EOLhyphen"/>ſwading them from ſo unwarranta<g ref="char:EOLhyphen"/>ble an action, and one of the Commiſ<g ref="char:EOLhyphen"/>ſioners in particular repreſented unto them the danger thereof, acquainting them that hee had been an Embaſſa<g ref="char:EOLhyphen"/>dour abroad, and did very well under<g ref="char:EOLhyphen"/>ſtand, that this injury done by them to a Commiſsoner of the Parliament of <hi>Scotland</hi> was of a very high nature; intreating, that if they apprehended any thing from <hi>Scotland,</hi> the breach might not be made upon the King<g ref="char:EOLhyphen"/>dom of <hi>England's</hi> part; and that they would not give juſt cauſe by this acti<g ref="char:EOLhyphen"/>on to the kingdom of <hi>Scotland</hi> to make was againſt <hi>England:</hi> but no argument did prevail; ſo at length the Earl of
+<pb n="4" facs="tcp:114416:4"/>
+               <!-- PDF PAGE 54 -->
+               <hi>Lauderdail</hi> was forced to depart, ha<g ref="char:EOLhyphen"/>ving publickly proteſted before the Commiſsioners of both Houſes, that hee was debarred from acceſſe to the King of <hi>Scotland,</hi> and his liberty taken from him, contrary to the Law of Nations, and a particular agreement betwixt the Kingdomes. Wee have formely repreſented unto the Hono<g ref="char:EOLhyphen"/>rable Houſes, how his Majeſty was carried away from <hi>Holdenby</hi> by a par<g ref="char:EOLhyphen"/>ty of Sir <hi>Thomas Fairfax</hi> his Army (which the ſouldiers before mention<g ref="char:EOLhyphen"/>ed did on Saturday laſt before the Earl of <hi>Lauderdail</hi> and ſome of the Com<g ref="char:EOLhyphen"/>misſioners of both Houſes, own to be the act of the whole Souldiery of the Army). Wee did likewiſe acquaint the Houſes how our Letters to <hi>Scot<g ref="char:EOLhyphen"/>land</hi> were intercepted by ſome of that
+<pb n="5" facs="tcp:114416:4"/>
+               <!-- PDF PAGE 54 -->Army. And now to compleat theſe injuries, they offered violence to a Commiſsioner of the Parliament of <hi>Scotland,</hi> debarred him from acceſſe to his Majeſty, deprived him of his li<g ref="char:EOLhyphen"/>berty, and drove him away; ſo that there remains no hope that there can be any application made hereafter to his Majeſty from the Kingdome of <hi>Scotland:</hi> Nor can we be able to give that account of his Majeſties condition to that Kingdom, which is expected from us, ſo long as he is in the power of that Army. Wherefore we do de<g ref="char:EOLhyphen"/>ſire that the Houſes of Parliament wil in their wiſdome take ſuch courſe herein, as reparation may be made to the Kingdom of <hi>Scotland</hi> of theſe mul<g ref="char:EOLhyphen"/>tiplyed injuries, and eſpecially of the laſt, done againſt the perſon of a pub<g ref="char:EOLhyphen"/>lick
+<pb n="8" facs="tcp:114416:5"/>
+               <!-- PDF PAGE 55 -->Miniſter of the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> in ſo violent a manner. And to the end there may be a free and unre<g ref="char:EOLhyphen"/>ſtrained application to his Majeſtie from the Parliaments of both King<g ref="char:EOLhyphen"/>doms: we do earneſtly deſire the ho<g ref="char:EOLhyphen"/>nourable Houſes to invite his Maje<g ref="char:EOLhyphen"/>ſty to come to <hi>London:</hi> And to declare that he ſhall be here in ſafety, honour and freedome, then which we ſee no other probable mean for the preſent to obtain a ſafe and well grounded Peace: And ſo we reſt</p>
+            <closer>
+               <dateline>Worceſter-Houſe <date>the 1 of <hi>Auguſt</hi> 1647.</date>
+               </dateline>
+               <signed>Your Lordſhips humble Servants,
+<list>
+                     <item>Lauderdaill,</item>
+                     <item>Charles Erskine,</item>
+                     <item>Hugh Kennedy,</item>
+                     <item>Ro. Barclay.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>For the Right Honourable the Speaker of the Houſe of Peers pro tempore.</trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
